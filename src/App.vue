@@ -21,8 +21,8 @@ html{
 	margin: 0 auto;
 }
 
-.has-harder{
-	margin-top: 4.8rem;
+.has-header {
+  	margin-top: 4.8rem;
 }
 h2{
 	font-size: 1.68rem;
