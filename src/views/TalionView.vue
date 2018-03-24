@@ -152,7 +152,7 @@
 	  		left: -50%;
 	  		top: 0;
 	  		display: block;
-	  		margin-top: 2.5rem;
+	  		margin-bottom: 2.5rem;
 	  		text-align: center;
 	  	}
 
