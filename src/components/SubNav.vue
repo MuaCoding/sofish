@@ -80,7 +80,7 @@
 	}
 </script>
 
-<style lang='scss' scoped>
+<style  lang="scss" scoped>
 	.navBotttom{
 		width: 100%;
 		border-bottom: 0.1rem solid #f3f3f3;
